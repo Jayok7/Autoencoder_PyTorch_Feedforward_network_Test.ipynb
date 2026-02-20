@@ -1,1 +1,1 @@
-Quick feedforward network test on PyTorch   
+This project was motivated by recent research into local learning rules, where individual neurons act as mini autoencoders rather than relying on global backpropagation. This implementation explores the foundational autoencoder concept as a stepping stone toward neuron-level local learning in feedforward networks.
